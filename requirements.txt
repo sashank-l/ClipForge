@@ -6,13 +6,13 @@
 # tkinter comes pre-installed with most Python distributions
 
 # Computer Vision and Video Processing
-opencv-python==4.8.1.78
+opencv-python
 
 # Image Processing
-Pillow==10.1.0
+Pillow
 
 # Data Management and CSV Export
-pandas==2.1.3
+pandas
 
 # Additional dependencies (automatically installed with above packages)
-numpy==1.24.3
+numpy
